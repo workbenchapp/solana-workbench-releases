@@ -6,7 +6,7 @@ Solana Workbench is alpha software. It might be a little rough for a while, and 
 
 ## Downloads
 
-Downloads are available on the [Releases](https://github.com/workbenchapp/solana-workbench-releases) section.
+Downloads are available on the [Releases](https://github.com/workbenchapp/solana-workbench-releases/releases) section.
 
 ## Dependencies
 
@@ -20,4 +20,4 @@ The [demo video](https://www.youtube.com/watch?v=b0V0FcI-upo) is worth a watch t
 
 ## Issues
 
-Please file bugs and feature requests in the [Issues](https://github.com/workbenchapp/solana-workbench-releases) section. Your feedback on the product is valued!
+Please file bugs and feature requests in the [Issues](https://github.com/workbenchapp/solana-workbench-releases/issues) section. Your feedback on the product is valued!
