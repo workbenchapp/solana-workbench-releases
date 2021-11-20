@@ -1,4 +1,4 @@
-## 0.0.1-alpha
+##### 0.0.1-alpha
 
 - Release the first version of Workbench. Functionality includes:
     - Start validator locally and stream/filter logs
