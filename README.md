@@ -1,4 +1,5 @@
 # solana-workbench-releases
+![](https://github.com/workbenchapp/solana-workbench-releases/blob/main/solworkbench.png?raw=true)
 
 Download the Workbench, report issues, and feature requests here.
 
