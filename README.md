@@ -1,5 +1,5 @@
 # solana-workbench-releases
-![](https://avatars.githubusercontent.com/u/94653053)
+![](https://avatars.githubusercontent.com/u/94653053?s=200)
 
 Download the Workbench, report issues, and feature requests here.
 
