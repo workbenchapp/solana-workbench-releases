@@ -1,7 +1,6 @@
 #### 0.1.2-alpha
 
 - Add OSX icon
-    - Dat border radius and drop shadow <3
 - Fix exec'ing issues on OSX
 - Signed OSX binaries!
 - Improved state management logic for test validator
