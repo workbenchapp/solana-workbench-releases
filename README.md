@@ -1,9 +1,9 @@
 # solana-workbench-releases
-![](https://avatars.githubusercontent.com/u/94653053?s=200&v=4)
+![](https://avatars.githubusercontent.com/u/94653053)
 
 Download the Workbench, report issues, and feature requests here.
 
-Solana Workbench is alpha software. It might be a little rough for a while, and we reserve the right to make changes that could cause a lot of breakage. Eventually, as we smooth out the functionality and design, things will get much more stable.
+Solana Workbench is alpha software. It might be a little rough, and we might make breaking changes. Eventually, things will get much more stable.
 
 ## Downloads
 
