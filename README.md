@@ -5,6 +5,10 @@ Download the Workbench, report issues, and feature requests here.
 
 Solana Workbench is alpha software. It might be a little rough, and we might make breaking changes. Eventually, things will get much more stable.
 
+## Disclaimer
+
+The Crypto Workbench team does not encourage, induce, or sanction the development or deployment of any applications in violation of applicable laws or regulations. Download and use the Cryto Workbench at your own risk.
+
 ## Downloads
 
 Downloads are available on the [Releases](https://github.com/workbenchapp/solana-workbench-releases/releases) section.
