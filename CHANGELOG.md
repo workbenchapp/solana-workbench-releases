@@ -1,3 +1,13 @@
+#### 0.1.2-alpha
+
+- Add OSX icon
+    - Dat border radius and drop shadow <3
+- Fix exec'ing issues on OSX
+- Signed OSX binaries!
+- Improved state management logic for test validator
+- Change `<code>` to display black-on-grey instead of pink-on-white because seriously, why is the default pink-on-white?
+- Local app logs to enable troubleshooting issues
+
 #### 0.1.1-alpha
 
 - Performance enhancements and bugfixes, esp. around "Run Deps" page
