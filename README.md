@@ -15,7 +15,7 @@ Downloads are available on the [Releases](https://github.com/workbenchapp/solana
 
 ## Dependencies
 
-Currently, [Docker for Mac/Windows](https://docker.com) is required for the Workbench's local validator functionality to work.
+Currently, [Docker for Mac/Windows](https://docker.com) is required for the Workbench's local validator functionality to work. Usage of a local validator that you run yourself is also supported. For Windows and x86_64 Macbooks, the Docker validator should work well, but for M1, we recommend using a local validator.
 
 Having the [Anchor](https://github.com/project-serum/anchor) binary available in your `PATH` is also required for the Anchor functionality to work. (We want to port this to Docker, or install it locally for you automatically, to make it more magic eventually)
 
