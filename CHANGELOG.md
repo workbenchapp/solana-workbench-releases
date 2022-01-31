@@ -1,3 +1,16 @@
+#### 0.2.0-alpha
+
+- Massively revamped accounts/keys section. [Demo here](https://www.youtube.com/watch?v=GdzdUdran7Y). New features:
+    - Pre-airdropped Wallets are created automatically for local dev usage.
+    - Accounts across all networks can now be yanked into user lists by pubkey and labeled for easy tracking.
+    - A inspect sub-view for accounts includes a link to the Solana Explorer with the correct network pre-populated.
+- Program Change "live view" on Accounts page.
+    - This helps surface relevant accounts to keep track of, so users don't have to copy-paste all the time.
+    - Program changes can be filtered by the owning program.
+    - Program changes are sorted by default based on the maximum amount of SOL change seen during live streaming (descending). The goal of this is to surface interesting accounts and sample based on information (i.e., how much money changed hands).
+    - This feature still has performance issues on mainnet-beta. Don't let it run longer than a few minutes. (We wanted to release it anyway to collect user feedback)
+- Some navigation changes, accounts page is now front and center.
+
 #### 0.1.2-alpha
 
 - Add OSX icon
