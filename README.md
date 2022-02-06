@@ -4,7 +4,7 @@ Solana Workbench is your one stop shop for local Solana development. You can enj
 
 ![](https://github.com/workbenchapp/solana-workbench-releases/blob/main/solworkbench.png?s=200)
 
-You can download the Workbench, report issues, and feature requests here. Solana Workbench is alpha software. It might be a little rough, and we might make breaking changes. Eventually, things will get much more stable.
+You can download the Workbench, report issues, and feature requests here. Solana Workbench is alpha software. It will be a little rough, and we will make breaking changes. Eventually, things will get more stable.
 
 ## Disclaimer
 
