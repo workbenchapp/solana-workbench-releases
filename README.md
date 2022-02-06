@@ -22,7 +22,7 @@ Having the [Anchor](https://github.com/project-serum/anchor) binary available in
 
 ## Usage
 
-The [demo video](https://www.youtube.com/watch?v=b0V0FcI-upo) is worth a watch to understand how the Workbench is meant to be used. We will get proper docs up eventually.
+The [original demo video](https://www.youtube.com/watch?v=b0V0FcI-upo) is worth a watch to understand how the Workbench is meant to be used. We will get proper docs up eventually. [New feature demos](https://www.youtube.com/channel/UCjwuifrlyO-Ty9CRpZSgxfw) are available on the Workbench Youtube channel and will help guide you through the latest features.
 
 ## FAQ
 
