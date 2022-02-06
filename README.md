@@ -1,4 +1,4 @@
-# solana-workbench-releases
+# Solana Workbench
 
 Solana Workbench is your one stop shop for local Solana development. You can enjoy a smooth experience for deploying local validators, airdropping tokens, managing accounts and more with our GUI on OSX and Windows.
 
