@@ -2,11 +2,9 @@
 
 Solana Workbench is your one stop shop for local Solana development. You can enjoy a smooth experience for deploying local validators, airdropping tokens, managing accounts and more with our GUI on OSX and Windows.
 
-![](https://avatars.githubusercontent.com/u/94653053?s=200)
+![](https://github.com/workbenchapp/solana-workbench-releases/blob/main/solworkbench.png?s=200)
 
 You can download the Workbench, report issues, and feature requests here. Solana Workbench is alpha software. It might be a little rough, and we might make breaking changes. Eventually, things will get much more stable.
-
-![]()
 
 ## Disclaimer
 
