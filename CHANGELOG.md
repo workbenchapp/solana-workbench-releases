@@ -1,3 +1,7 @@
+#### 0.2.1
+
+- Fix issues with migration assets
+
 #### 0.2.0-alpha
 
 - Massively revamped accounts/keys section. [Demo here](https://www.youtube.com/watch?v=GdzdUdran7Y). New features:
